@@ -1,5 +1,5 @@
 {
-  "name": "telegram-bot-sdk/telegram-bot-sdk",
+  "name": "karlhsu/telegram-bot-sdk",
   "description": "The Telegram Bot API PHP SDK",
   "license": "BSD-3-Clause",
   "type": "library",
